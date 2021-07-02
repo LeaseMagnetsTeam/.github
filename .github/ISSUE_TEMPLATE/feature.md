@@ -12,3 +12,6 @@ What are you proposing? How should it be implemented?
 
 Why should this feature be implemented?
 
+## Tasks
+
+- [ ] Add to a GitHub project
