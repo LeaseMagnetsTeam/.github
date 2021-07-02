@@ -10,6 +10,8 @@ labels: bug
 
 ## Additional details
 
+- [ ] Add issue to a GitHub project
+
 <!-- To assist you best, please include commands that you've run, options you've selected and any relevant logs -->
 
 * Host system configuration: 
