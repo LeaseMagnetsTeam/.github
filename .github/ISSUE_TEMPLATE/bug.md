@@ -15,9 +15,8 @@ labels: bug
 * Host system configuration: 
     * OS name:
 
-<summary>
-Logs:
 <details>
+<summary>Logs:</summary>
 
 ```shell
 # Dump logs here
@@ -26,4 +25,3 @@ Logs:
 
 </pre>
 </details>
-</summary>
