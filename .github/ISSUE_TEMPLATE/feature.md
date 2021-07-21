@@ -6,11 +6,11 @@ labels: enhancement
 
 ## Description
 
-What are you proposing? How should it be implemented?
+<!-- What are you proposing? How should it be implemented? -->
 
 ## Rationale
 
-Why should this feature be implemented?
+<!-- Why should this feature be implemented? -->
 
 ## Tasks
 
